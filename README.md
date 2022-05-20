@@ -7,7 +7,7 @@ I'm Bintang from Jakarta-Indonesia, and i'm a undergraduated Computer Science St
 * 📱 Kotlin
 * 💻 HTML, CSS, JS, TS
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bintangpr)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bintangpr&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **bintangpr/bintangpr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
