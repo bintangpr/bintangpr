@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Bintang from Jakarta-Indonesia, and i'm a undergraduated Computer Science Student that interest in Frontend Developer. I really enjoying learning language,framework, and library. I also enjoy wireframing, ui, ux , and design in general.
+I'm Bintang from Jakarta-Indonesia, and i'm a Computer Science Freshgraduate that interest in Frontend Developer. I really enjoying learning language,framework, and library. I also enjoy wireframing, ui, ux , and design in general.
 
 ## Skills and Expirience
 * ⚛ React, Next.js
